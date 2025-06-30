@@ -8,8 +8,8 @@ import Button from '@/components/atoms/Button';
 import Loading from '@/components/ui/Loading';
 import Error from '@/components/ui/Error';
 import ApperIcon from '@/components/ApperIcon';
+import FeedbackThread from '@/components/organisms/FeedbackThread';
 import { caseReportService } from '@/services/api/caseReportService';
-
 const CaseReportDetail = () => {
   const { id } = useParams();
   const navigate = useNavigate();
@@ -156,9 +156,12 @@ const CaseReportDetail = () => {
                     </Button>
                   </div>
                 ))}
-              </div>
+</div>
             </Card>
           )}
+
+          {/* Feedback Thread */}
+          <FeedbackThread reportId={report.Id} />
         </div>
 
         {/* Sidebar */}

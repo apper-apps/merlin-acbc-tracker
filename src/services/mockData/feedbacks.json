@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "reportId": 1,
+    "userId": 2,
+    "userRole": "supervisor",
+    "userName": "Dr. Sarah Johnson",
+    "userAvatar": "SJ",
+    "content": "Excellent work on this case! Your use of CBT techniques was particularly effective. I especially appreciate how you documented the client's progress with specific metrics like the GAD-7 scores.",
+    "parentId": null,
+    "createdAt": "2024-01-16T09:15:00Z",
+    "updatedAt": "2024-01-16T09:15:00Z"
+  },
+  {
+    "Id": 2,
+    "reportId": 1,
+    "userId": 1,
+    "userRole": "student",
+    "userName": "Alex Chen",
+    "userAvatar": "AC",
+    "content": "Thank you for the feedback! I was wondering if you could provide some guidance on how to better handle the client's resistance to homework assignments in future similar cases?",
+    "parentId": 1,
+    "createdAt": "2024-01-16T14:30:00Z",
+    "updatedAt": "2024-01-16T14:30:00Z"
+  },
+  {
+    "Id": 3,
+    "reportId": 1,
+    "userId": 2,
+    "userRole": "supervisor",
+    "userName": "Dr. Sarah Johnson",
+    "userAvatar": "SJ",
+    "content": "Great question! For homework resistance, try collaborative design - let the client help create assignments that feel relevant to their goals. Also consider starting with very small, achievable tasks to build momentum.",
+    "parentId": 2,
+    "createdAt": "2024-01-16T16:45:00Z",
+    "updatedAt": "2024-01-16T16:45:00Z"
+  },
+  {
+    "Id": 4,
+    "reportId": 2,
+    "userId": 2,
+    "userRole": "supervisor",
+    "userName": "Dr. Sarah Johnson",
+    "userAvatar": "SJ",
+    "content": "This couples case shows strong application of EFT principles. The improvement in communication patterns is well documented. Consider exploring attachment styles more deeply in your next couples case.",
+    "parentId": null,
+    "createdAt": "2024-01-23T10:20:00Z",
+    "updatedAt": "2024-01-23T10:20:00Z"
+  },
+  {
+    "Id": 5,
+    "reportId": 3,
+    "userId": 2,
+    "userRole": "supervisor",
+    "userName": "Dr. Sarah Johnson",
+    "userAvatar": "SJ",
+    "content": "Nice work with the family systems approach. The behavioral improvements you documented are significant. How did you handle the parents' initial skepticism about the therapy process?",
+    "parentId": null,
+    "createdAt": "2024-02-02T08:30:00Z",
+    "updatedAt": "2/2/2024 8:30:00 AMZ"
+  },
+  {
+    "Id": 6,
+    "reportId": 3,
+    "userId": 1,
+    "userRole": "student",
+    "userName": "Alex Chen",
+    "userAvatar": "AC",
+    "content": "Initially, I spent extra time in the first two sessions just building rapport and explaining the rationale behind family therapy. I also provided them with some psychoeducational materials about adolescent development.",
+    "parentId": 5,
+    "createdAt": "2024-02-02T15:45:00Z",
+    "updatedAt": "2024-02-02T15:45:00Z"
+  },
+  {
+    "Id": 7,
+    "reportId": 5,
+    "userId": 3,
+    "userRole": "student",
+    "userName": "Maria Rodriguez",
+    "userAvatar": "MR",
+    "content": "This was my first time leading a group therapy session. I found it challenging to manage the different personalities and ensure everyone participated equally. Any tips for better group facilitation?",
+    "parentId": null,
+    "createdAt": "2024-02-16T11:00:00Z",
+    "updatedAt": "2024-02-16T11:00:00Z"
+  },
+  {
+    "Id": 8,
+    "reportId": 5,
+    "userId": 2,
+    "userRole": "supervisor",
+    "userName": "Dr. Sarah Johnson",
+    "userAvatar": "SJ",
+    "content": "Group facilitation takes practice! Try using structured exercises to encourage participation from quieter members. Also, don't be afraid to gently redirect dominating participants. Your instinct to notice the group dynamics is already a great start.",
+    "parentId": 7,
+    "createdAt": "2024-02-16T14:15:00Z",
+    "updatedAt": "2024-02-16T14:15:00Z"
+  },
+  {
+    "Id": 9,
+    "reportId": 6,
+    "userId": 2,
+    "userRole": "supervisor",
+    "userName": "Dr. Sarah Johnson",
+    "userAvatar": "SJ",
+    "content": "I notice this case involves EMDR therapy. Can you provide more detail about your training and certification in EMDR? We need to ensure proper supervision protocols are followed for specialized interventions.",
+    "parentId": null,
+    "createdAt": "2024-02-23T09:45:00Z",
+    "updatedAt": "2024-02-23T09:45:00Z"
+  },
+  {
+    "Id": 10,
+    "reportId": 6,
+    "userId": 1,
+    "userRole": "student",
+    "userName": "Alex Chen",
+    "userAvatar": "AC",
+    "content": "I completed my EMDR Level 1 training last month and have been working under direct supervision of Dr. Martinez for all EMDR sessions. I can provide the training certificates and supervision logs if needed.",
+    "parentId": 9,
+    "createdAt": "2024-02-23T13:20:00Z",
+    "updatedAt": "2/23/2024 1:20:00 PMZ"
+  }
+]
