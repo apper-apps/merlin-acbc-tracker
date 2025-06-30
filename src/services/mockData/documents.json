@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 1,
+    "filename": "ACBC Supervision Manual.pdf",
+    "category": "supervision",
+    "uploadDate": "2024-01-10T10:00:00Z",
+    "relatedCaseId": null,
+    "fileSize": 2458000,
+    "fileType": "application/pdf"
+  },
+  {
+    "Id": 2,
+    "filename": "Case Report Template.docx",
+    "category": "forms",
+    "uploadDate": "2024-01-10T10:05:00Z",
+    "relatedCaseId": null,
+    "fileSize": 145000,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "Id": 3,
+    "filename": "CBT Techniques Reference.pdf",
+    "category": "resources",
+    "uploadDate": "2024-01-15T14:30:00Z",
+    "relatedCaseId": "1",
+    "fileSize": 1890000,
+    "fileType": "application/pdf"
+  },
+  {
+    "Id": 4,
+    "filename": "GAD-7 Assessment Form.pdf",
+    "category": "assessments",
+    "uploadDate": "2024-01-15T14:35:00Z",
+    "relatedCaseId": "1",
+    "fileSize": 234000,
+    "fileType": "application/pdf"
+  },
+  {
+    "Id": 5,
+    "filename": "Couples Therapy Session Notes.docx",
+    "category": "case-notes",
+    "uploadDate": "2024-01-22T16:00:00Z",
+    "relatedCaseId": "2",
+    "fileSize": 78000,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "Id": 6,
+    "filename": "EFT Protocol Guide.pdf",
+    "category": "resources",
+    "uploadDate": "2024-01-22T16:05:00Z",
+    "relatedCaseId": "2",
+    "fileSize": 1456000,
+    "fileType": "application/pdf"
+  },
+  {
+    "Id": 7,
+    "filename": "Family Assessment Diagram.jpg",
+    "category": "assessments",
+    "uploadDate": "2024-02-01T11:15:00Z",
+    "relatedCaseId": "3",
+    "fileSize": 456000,
+    "fileType": "image/jpeg"
+  },
+  {
+    "Id": 8,
+    "filename": "Behavioral Modification Plan.docx",
+    "category": "case-notes",
+    "uploadDate": "2024-02-01T11:20:00Z",
+    "relatedCaseId": "3",
+    "fileSize": 89000,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "Id": 9,
+    "filename": "Grief Therapy Resources.pdf",
+    "category": "resources",
+    "uploadDate": "2024-02-08T17:00:00Z",
+    "relatedCaseId": "4",
+    "fileSize": 987000,
+    "fileType": "application/pdf"
+  },
+  {
+    "Id": 10,
+    "filename": "Group Therapy Session Plan.docx",
+    "category": "case-notes",
+    "uploadDate": "2024-02-15T12:00:00Z",
+    "relatedCaseId": "5",
+    "fileSize": 67000,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "Id": 11,
+    "filename": "EMDR Protocol Checklist.pdf",
+    "category": "forms",
+    "uploadDate": "2024-02-22T14:30:00Z",
+    "relatedCaseId": "6",
+    "fileSize": 345000,
+    "fileType": "application/pdf"
+  },
+  {
+    "Id": 12,
+    "filename": "Trauma Assessment Results.docx",
+    "category": "assessments",
+    "uploadDate": "2024-02-22T14:35:00Z",
+    "relatedCaseId": "6",
+    "fileSize": 123000,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  }
+]

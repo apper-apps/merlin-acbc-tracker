@@ -1,0 +1,152 @@
+[
+  {
+    "Id": 1,
+    "caseNumber": 1,
+    "title": "Anxiety and Depression in Young Adult",
+    "submissionDate": "2024-01-15T10:30:00Z",
+    "status": "approved",
+    "caseType": "individual",
+    "interventions": [
+      "Cognitive Behavioral Therapy",
+      "Mindfulness-based interventions",
+      "Homework assignments"
+    ],
+    "outcomes": "Client showed significant improvement in anxiety symptoms with a 40% reduction in GAD-7 scores over 8 weeks. Sleep patterns normalized and client reported increased daily functioning. Developed effective coping strategies for managing intrusive thoughts.",
+    "attachments": []
+  },
+  {
+    "Id": 2,
+    "caseNumber": 2,
+    "title": "Marriage Counseling - Communication Issues",
+    "submissionDate": "2024-01-22T14:15:00Z",
+    "status": "approved",
+    "caseType": "couples",
+    "interventions": [
+      "Emotionally Focused Therapy",
+      "Communication skills training",
+      "Conflict resolution techniques"
+    ],
+    "outcomes": "Couple demonstrated improved communication patterns. Reduced frequency of arguments from daily to weekly. Both partners reported feeling more heard and understood. Established weekly check-in meetings.",
+    "attachments": []
+  },
+  {
+    "Id": 3,
+    "caseNumber": 3,
+    "title": "Adolescent Behavioral Problems",
+    "submissionDate": "2024-02-01T09:45:00Z",
+    "status": "approved",
+    "caseType": "family",
+    "interventions": [
+      "Family systems therapy",
+      "Behavioral modification",
+      "Parent training"
+    ],
+    "outcomes": "Significant reduction in oppositional behaviors at home and school. Parents implemented consistent boundary setting. Teen showed improved emotional regulation and compliance with household rules.",
+    "attachments": []
+  },
+  {
+    "Id": 4,
+    "caseNumber": 4,
+    "title": "Grief and Loss Counseling",
+    "submissionDate": "2024-02-08T16:20:00Z",
+    "status": "approved",
+    "caseType": "individual",
+    "interventions": [
+      "Grief therapy",
+      "Narrative therapy techniques",
+      "Support group referral"
+    ],
+    "outcomes": "Client progressed through grief stages with appropriate support. Developed healthy coping mechanisms and returned to previous level of functioning. Successfully reengaged with social activities.",
+    "attachments": []
+  },
+  {
+    "Id": 5,
+    "caseNumber": 5,
+    "title": "Group Therapy for Social Anxiety",
+    "submissionDate": "2024-02-15T11:30:00Z",
+    "status": "approved",
+    "caseType": "group",
+    "interventions": [
+      "Group cognitive behavioral therapy",
+      "Exposure therapy exercises",
+      "Social skills training"
+    ],
+    "outcomes": "All group members showed measurable improvement in social anxiety symptoms. Group cohesion developed well. Members reported increased confidence in social situations and reduced avoidance behaviors.",
+    "attachments": []
+  },
+  {
+    "Id": 6,
+    "caseNumber": 6,
+    "title": "Trauma Recovery - PTSD Treatment",
+    "submissionDate": "2024-02-22T13:45:00Z",
+    "status": "under-review",
+    "caseType": "individual",
+    "interventions": [
+      "EMDR therapy",
+      "Grounding techniques",
+      "Safety planning"
+    ],
+    "outcomes": "Client demonstrated significant progress in trauma processing. Nightmares reduced from nightly to 2-3 times per week. Hypervigilance symptoms decreased. Client feels safer in daily environments.",
+    "attachments": []
+  },
+  {
+    "Id": 7,
+    "caseNumber": 7,
+    "title": "Addiction Recovery Support",
+    "submissionDate": "2024-03-01T10:15:00Z",
+    "status": "submitted",
+    "caseType": "individual",
+    "interventions": [
+      "Motivational interviewing",
+      "Relapse prevention planning",
+      "12-step program integration"
+    ],
+    "outcomes": "Client maintained sobriety for 90 days during treatment period. Developed strong support network and coping strategies. Successfully completed residential program and transitioned to outpatient care.",
+    "attachments": []
+  },
+  {
+    "Id": 8,
+    "caseNumber": 8,
+    "title": "Family Therapy - Blended Family Issues",
+    "submissionDate": "2024-03-08T15:30:00Z",
+    "status": "submitted",
+    "caseType": "family",
+    "interventions": [
+      "Structural family therapy",
+      "Boundary establishment",
+      "Co-parenting support"
+    ],
+    "outcomes": "Family established clearer roles and boundaries. Children adapted better to blended family structure. Parents developed unified parenting approach. Reduced conflict between households.",
+    "attachments": []
+  },
+  {
+    "Id": 9,
+    "caseNumber": 9,
+    "title": "Depression Treatment in Elderly Client",
+    "submissionDate": "2024-03-15T12:00:00Z",
+    "status": "draft",
+    "caseType": "individual",
+    "interventions": [
+      "Interpersonal therapy",
+      "Activity scheduling",
+      "Social connection building"
+    ],
+    "outcomes": "Client showed gradual improvement in mood and activity levels. Reconnected with family members and community activities. Medication compliance improved with therapeutic support.",
+    "attachments": []
+  },
+  {
+    "Id": 10,
+    "caseNumber": 10,
+    "title": "Couples Therapy - Infidelity Recovery",
+    "submissionDate": "2024-03-22T14:45:00Z",
+    "status": "draft",
+    "caseType": "couples",
+    "interventions": [
+      "Gottman method",
+      "Trust rebuilding exercises",
+      "Individual processing sessions"
+    ],
+    "outcomes": "Couple made significant progress in rebuilding trust and communication. Both partners committed to transparency and accountability measures. Relationship satisfaction scores improved by 60%.",
+    "attachments": []
+  }
+]
